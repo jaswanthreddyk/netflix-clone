@@ -1,0 +1,220 @@
+#back{
+    background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/c38a2d52-138e-48a3-ab68-36787ece46b3/eeb03fc9-99c6-438e-824d-32917ce55783/IN-en-20240101-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+    position: relative;
+    display: flex;
+}
+#logo{
+    height: 100px;
+    width: 400px;
+}
+#option{
+    height: 100px;
+    width: 100px;
+    color: white;
+}
+#sign{
+    color: white;
+    background-color: red;
+}
+.dok{
+    color: white;
+    background-color: red;
+    height: 45px;
+    width: 100px;
+}
+#head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#class{
+    text-align: center;
+    color: white;
+    margin-top: 150px;
+}
+header{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.511);
+}
+#place{
+    height: 40px;
+    width: 350px;
+    border: 0.5px solid black;
+}
+#box2{
+    text-align: center;
+    margin-top: 20px;
+}
+#black{
+    background-color: black;
+    height: 700px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 5px;
+}
+#bar{
+    height: 10px;
+    width: 100%;
+    background-color: blue;
+}
+.dk{
+    color: white;
+}
+#black2{
+    background-color: black;
+    height: 700px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 5px;
+
+}
+.ok{
+    color: white;
+    height: 70px;
+    width: 400px;
+    text-align: start;
+    font-weight: 10px;
+    font-size: 40px;
+}
+#black3{
+    background-color: black;
+    height: 700px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 5px;
+}
+.map{
+    color: aliceblue;
+}
+.lm{
+    font-size: 70px;
+    font-weight: 20px;
+}
+#kj{
+    margin-right: 100px;
+}
+#black4{
+    background-color: black;
+    height: 700px;
+    width: 100%;
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.man{
+    color: white;
+}
+.kj2{
+    font-weight: 20px;
+    font-size: 60px;
+}
+.kj3{
+    font-weight: 90px;
+    font-size: 80px;
+}
+.omk{
+    color: white;
+    /* text-align: start; */
+    margin-top: 75px;
+}
+#black5{
+    background-color: black;
+    height: 700px;
+    width: 100%;
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#text1{
+    color: white;
+}
+.text2{
+    height: 70px;
+    width: 80%;
+    color: white;
+    background-color: rgba(73, 70, 70, 0.354);
+    text-align: start;
+    font-weight: 40px;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 9px;
+    transition: background-color 0.5s;
+}
+#kj9{
+    color: white;
+    margin-top: 40px;
+}
+#kj6{
+    height: 37px;
+    width: 350px;
+}
+#enjoy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.sig{
+    margin-top: 60px;
+    color: white;
+    background-color: red;
+    height: 45px;
+    width: 100px;
+}
+.si{
+    margin-left: 10px;
+}
+.text2:hover{
+    background-color: rgb(118, 113, 113);
+}
+body{
+    background-color: rgb(79, 79, 79);
+}
+#kj55{
+    position: relative;
+}
+#kj45{
+    position: absolute;
+    top: 97px;
+    right: 88px;
+    z-index: 10;
+
+}
+#image1{
+    position: relative;
+    z-index: 1000;
+}
+#kj65{
+    position: absolute;
+    left: 945px;
+    z-index: 10;
+    width: 28%;
+    bottom: -1712px;
+}
+#kj99{
+    position:relative
+}
+#image2{
+    position: relative;
+    z-index: 1000;
+}
